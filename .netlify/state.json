@@ -1,0 +1,20 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "KarabÃ¼k",
+			"country": {
+				"code": "TR",
+				"name": "Turkey"
+			},
+			"subdivision": {
+				"code": "78",
+				"name": "Karabuek"
+			},
+			"timezone": "Europe/Istanbul",
+			"latitude": 41.215,
+			"longitude": 32.7095
+		},
+		"timestamp": 1670023891915
+	},
+	"siteId": "9c3975bb-179e-4001-89f8-550589051ff2"
+}
